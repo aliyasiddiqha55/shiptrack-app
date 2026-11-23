@@ -27,7 +27,7 @@ ShipTrack is a responsive shipment tracking web application built using React an
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/aliyasiddiqha55/shiptrack-app
 ```
 
 Navigate to the project folder:
